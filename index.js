@@ -17,6 +17,5 @@ function greet(timeString){
 }
 
 function displayMessage(str){
-
     document.querySelector("h1#greeting").innerText = str
 }
